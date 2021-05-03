@@ -1,0 +1,36 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Charmander", 
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+    },
+    {
+      "id": 2,
+      "name": "pikachu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+    }
+  ],
+  "challenges": [
+    {
+      "id": 1,
+      "text": "Going down!",
+      "pokemonId": 1
+    },
+    {
+      "id": 2,
+      "text": "I'll freeze you",
+      "pokemonId": 1
+    },
+    {
+      "id": 3,
+      "text": "Gonna get soaked!",
+      "pokemonId": 2
+    },
+    {
+      "id": 4,
+      "text": "No chance pika",
+      "pokemonId": 2
+    }
+  ]
+}
